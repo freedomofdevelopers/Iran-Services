@@ -6,6 +6,7 @@
 | Name | Domain | Ip |
 |:-:|:-:|:-:|
 | Blue Bank | | 91.245.228.74 |
+|  | blubank.com | 91.245.228.76 |
 | Telewebion | sdm.telewebion.com | 188.0.241.27 |
 |  | static.telewebion.com |  |
 |  | telewebion.com |  |
