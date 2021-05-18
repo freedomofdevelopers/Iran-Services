@@ -8,11 +8,11 @@
 | Blue Bank | | 91.245.228.74 |
 |  | blubank.com | 91.245.228.76 |
 | Telewebion | sdm.telewebion.com | 188.0.241.27 |
-|  | static.telewebion.com |  |
-|  | telewebion.com |  |
+|  | static.telewebion.com | // |
+|  | telewebion.com | // |
 |  | api.telewebion.net | 185.120.222.123 |
-|  | telewebion.net |  |
-|  | static.telewebion.net |  |
+|  | telewebion.net | // |
+|  | static.telewebion.net | // |
 |  | api.telewebion.com | 178.22.122.154 |
 | Telewebion Mobile |  | 178.22.122.153 |
 |  |  | 188.0.241.39 |
